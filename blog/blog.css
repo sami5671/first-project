@@ -2,3 +2,10 @@
   color: aqua;
   text-decoration: underline;
 }
+
+div {
+  background-color: tomato;
+  margin: 10px;
+  text-decoration: indigo;
+  padding: 20px;
+}
